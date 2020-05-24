@@ -1,2 +1,4 @@
-echo welcome to world
+
+echo welcome to java
+
 
