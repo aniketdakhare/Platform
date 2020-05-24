@@ -1,4 +1,4 @@
 
-echo welcome to java
+echo welcome to Ruby
 
 
