@@ -1,1 +1,2 @@
-echo welcome to git
+echo welcome to java
+
